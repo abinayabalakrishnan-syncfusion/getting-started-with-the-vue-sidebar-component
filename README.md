@@ -1,6 +1,5 @@
 # Getting Started with the Vue Sidebar Component
 
-**Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to create and configure the Syncfusion Vue Sidebar component within a Vue application.
 
 A quick start project that shows how to create and configure the Syncfusion Vue Sidebar component in a Vue project. This project also includes example code snippets to open and close the Sidebar manually, change the Sidebar position, and integrate the ListView component into the Sidebar.
